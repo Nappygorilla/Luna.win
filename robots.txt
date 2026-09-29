@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /login.html
+Disallow: /register.html
+Disallow: /account.html
+
+Sitemap: https://nappygorilla.github.io/Luna.win/sitemap.xml
